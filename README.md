@@ -1,0 +1,1 @@
+# -RecyclerView-Adapter-for-a-list
